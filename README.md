@@ -1,6 +1,6 @@
 # Discord-Vanity-Stealer
 
-A fast vanity stealer made in Go. Source will be public after some good number of project forks/starts!
+A fast vanity stealer made in Go. Source will be public after some good number of project forks/stars!
 
 ## Use
 * Download **stealer.zip**,
