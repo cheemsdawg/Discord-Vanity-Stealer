@@ -8,7 +8,7 @@ A fast vanity stealer made in Go.
 * Run **Vanity Stealer.exe**.
 
 ## Logger?
-Not open source because too many skids. Not at all a logger, if you still think so then don't use it.
+It isn't open source because of too many skids these days. Not at all a logger, if you still think so then don't use it.
 
 ## Creator
 * cheems#8888 
