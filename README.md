@@ -1,6 +1,6 @@
 # Discord-Vanity-Stealer
 
-A fast open source vanity stealer made in Go.
+A fast open source discord vanity stealer made in Go.
 
 ## Use
 * Edit variables,
