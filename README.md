@@ -7,5 +7,5 @@ A fast open source discord vanity stealer made in Go.
 * Edit vanity code in line 22 && 42,
 * Your choice to build and use it or use it on replit (run command -> go run main.go).
 
-## Creator
-* cheems#8888 
+## Support
+* [Discord server](https://discord.gg/playzxd)
